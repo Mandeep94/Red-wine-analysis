@@ -1,5 +1,5 @@
 # Red-wine-analysis
-Analysis of contents for quality of red wine 
+Analysis of physicochemical properties for quality of red wine 
 
 Attribute information
 ---------------------
